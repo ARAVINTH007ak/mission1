@@ -4,6 +4,16 @@ body {
     font-family: "Merriweather";
     background-color: #ebf2ff;
 }
+.vid__center{
+    width:95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+}
+
+.vid{
+    margin: 100px 0px;
+}
 
 /* ! NAV Start*/
 .nav {
@@ -11,6 +21,12 @@ body {
     justify-content: space-around;
     align-items: center;
 
+}
+header{
+    
+    box-shadow: 0px 3px rgb(231, 229, 229);
+    background-color: white;
+    margin-bottom: 10px; ;
 }
 
 .nav__img {
@@ -461,6 +477,12 @@ button:hover{
     }
 
      /* todo: Quote End*/
+     .vid__center{
+        width:400px;
+        margin-left: auto;
+        margin-right: auto;
+        display: block
+    }
 
 }
 
